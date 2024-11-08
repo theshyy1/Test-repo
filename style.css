@@ -3,5 +3,6 @@ body {
 }
 
 ul {
-    font-style: italic
+    font-style: italic;
+    font-size: 24px;
 }
